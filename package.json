@@ -1,0 +1,14 @@
+{
+    "name": "connect-mongostore",
+    "description": "Mongodb session store for Connect",
+    "version": "0.0.1",
+    "author": "Anton Setiawan",
+    "main": "./index.js",
+    "dependencies": {
+        "mongodb": ">= 1.2"
+    },
+
+    "engines": {
+        "node": "*"
+    }
+}
